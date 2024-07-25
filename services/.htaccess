@@ -1,0 +1,5 @@
+authtype basic
+authgroupfile /dev/null
+authuserfile /home/content/16/6206216/htconfig/.htpassword.ghtpassword
+authname "Secure Area"
+require user portfolio phil guest

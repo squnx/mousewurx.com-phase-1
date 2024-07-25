@@ -1,0 +1,62 @@
+#scroll {
+	position:relative;
+	height:;
+	overflow:hidden;
+	width:610px;
+	height:360px;
+}
+
+#tools {width:9999em; position:absolute; height:305px}
+.tool {float:left; width:610px; height:300px; text-align:center}
+#tool {margin-left:7px}
+.details {font-size:16px; color:#555; margin-top:-10px; background-color:transparent; padding:5px 40px}
+
+#thumbs {background:url(/images/shim.gif) no-repeat; height:90px; position:absolute; top:330px; width:990px; left:-6px}
+
+.t {padding:0 !important; border:0 !important}
+.t a {background:transparent url(images/navi_tabs.png) no-repeat scroll -20px -90px;
+	margin-left:12px; display:block; width:50px; float:left; height:90px; cursor:pointer}
+.t a.active {cursor:default !important}
+
+.navi {margin-left:70px; _margin-left:304px}
+
+/* CSS sprite for the navigation */
+#t0			{ margin-left:20px; _margin-left:10px}
+#t0.active  { background-position:-20px 0 !important}
+#t0:hover   { background-position:-20px -180px}
+#t0:active  { background-position:-20px -270px}
+
+#tR			{ background-position:-82px -90px; width:145px}
+#tR:hover 	{ background-position:-82px -180px; width:145px}
+#tR:active	{ background-position:-82px -270px; width:145px}
+#tR.active	{ background-position:-82px 0 !important}
+
+#t1			{ background-position:-239px -90px}
+#t1:hover 	{ background-position:-239px -180px}
+#t1:active	{ background-position:-239px -270px}
+#t1.active	{ background-position:-239px 0 !important}
+
+#t2			{ background-position:-301px -90px}
+#t2:hover 	{ background-position:-301px -180px}
+#t2:active	{ background-position:-301px -270px}
+#t2.active	{ background-position:-301px 0 !important}
+
+#t3			{ background-position:-363px -90px}
+#t3:hover 	{ background-position:-363px -180px}
+#t3:active	{ background-position:-363px -270px}
+#t3.active	{ background-position:-363px 0 !important}
+
+#t4			{ background-position:-425px -90px}
+#t4:hover 	{ background-position:-425px -180px}
+#t4:active	{ background-position:-425px -270px}
+#t4.active	{ background-position:-425px 0 !important}
+
+#t5			{ background-position:-487px -90px}
+#t5:hover 	{ background-position:-487px -180px}
+#t5:active	{ background-position:-487px -270px}
+#t5.active	{ background-position:-487px 0 !important}
+
+#t6			{ background-position:-549px -90px}
+#t6:hover 	{ background-position:-549px -180px}
+#t6:active	{ background-position:-549px -270px}
+#t6.active	{ background-position:-549px 0 !important}

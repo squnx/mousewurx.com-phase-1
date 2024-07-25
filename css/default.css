@@ -1,0 +1,127 @@
+div {font-size: 10px; color: #000000}
+html {height:100%}
+body {margin:0; padding:0; height:100%; background-position:top right; background-repeat:repeat-y; background-color:#ffdd88; font-family:Verdana, Arial, Helvetica, sans-serif; text-decoration: none}
+#container {width:780px; margin-left:auto; margin-right:auto}
+
+#wrap {width:780px; margin-left:auto; margin-right:auto}
+
+#header {background-image:url(/images/top.png); padding:0; height:55px;}
+.header {float:right; padding:5px 10px 0px 0px; color: #666666; font-size: 10px; font-weight:bold;}
+
+#nav {background-image:url(/images/nav_top.gif); padding:0; font-size: 10px; font-weight:bold}
+#navfont {padding:0px 17px 0px 17px; color: #ffa81f;}
+ul {list-style-type:none; margin:0; padding:3px 0px 5px 158px; overflow:hidden}
+li {float:left}
+a.navfont:link    {color:#ffffff; padding:0px 17px 0px 17px; text-decoration:none}
+a.navfont:visited {color:#ffffff; padding:0px 17px 0px 17px; text-decoration:none}
+a.navfont:active  {color:#ffffff; padding:0px 17px 0px 17px; text-decoration:none}
+a.navfont:hover   {color:#ffa81f; padding:0px 17px 0px 17px; text-decoration:none}
+#navbottom {background-image:url(/images/nav_bottom.gif); padding:0; width:780px; height:20px}
+#bgtop {background-image:url(/images/bg_top.gif); padding:0; width:780px; height:27px}
+
+#left {float:left; background-image:url(/images/bg_ffd381.gif); background-repeat:repeat-y; width:160px; height:360px}
+.lefttop {background-image:url(/images/left_top.gif); padding:8px 0px 13px 10px; width:150px; font-size: 11px; font-weight:bold}
+.left01 {padding:0px 15px 0px 10px; width:135px; line-height:18px}
+.left02 {padding:0px 15px 0px 10px; width:135px; line-height:18px; color: #666666; font-weight:bold}
+.left03 {padding:1px 15px 3px 10px; line-height:16px}
+.leftmiddle {background-image:url(/images/left_middle.gif); padding:18px 0px 14px 10px; width:150px; font-size: 11px; font-weight:bold}
+
+#main {position:relative; margin-left:160px; background-image:url(/images/bg_main.gif); width:620px}
+.maintop {background-image:url(/images/main_top.gif); width:610px; height:37px}
+.maintop_company {background-image:url(/company/images/main_top.gif); width:610px; height:37px}
+.maintop_services {background-image:url(/services/images/main_top.gif); width:610px; height:37px}
+.maintop_portfolio {background-image:url(/portfolio/images/main_top.gif); width:610px; height:37px}
+.maintop_portfolioR {background-image:url(/portfolio/images/main_topR.gif); width:610px; height:37px}
+.maintop_portfolio1 {background-image:url(/portfolio/images/main_top1.gif); width:610px; height:37px}
+.maintop_portfolio2 {background-image:url(/portfolio/images/main_top2.gif); width:610px; height:37px}
+.maintop_portfolio3 {background-image:url(/portfolio/images/main_top3.gif); width:610px; height:37px}
+.maintop_portfolio4 {background-image:url(/portfolio/images/main_top4.gif); width:610px; height:37px}
+.maintop_portfolio5 {background-image:url(/portfolio/images/main_top5.gif); width:610px; height:37px}
+.maintop_portfolio6 {background-image:url(/portfolio/images/main_top6.gif); width:610px; height:37px}
+.maintop_experian {background-image:url(/images/main_top_experian.gif); width:610px; height:37px}
+.main01 {padding:0px 15px 45px 15px; line-height:16px; font-size: 11px; width:590px}
+.main01_a {float: left; padding:0px 10px 0px 0px; width:330px}
+.main01_b {float: left; padding:9px 8px 8px 2px; width:240px; background-image:url(/images/thumbnail.gif)}
+.mainbottom {float: left; background-image:url(/images/main_bottom.gif); width:610px; height:148px}
+.mainbottom_a {float: left; padding:14px 5px 0px 15px; line-height:14px; width:185px}
+.mainbottom_b {float: left; padding:14px 5px 0px 10px; line-height:14px; width:185px}
+.mainbottom_c {float: left; padding:14px 15px 0px 10px; line-height:14px; width:180px}
+.mainbottom_title {line-height:28px; font-size: 11px; font-weight:bold}
+.mainbottom01 {padding:14px 5px 0px 10px}
+
+.text01 {line-height:18px; font-size: 12px; font-weight:bold}
+#right {float:right; background-image:url(/images/bg_right.gif); width:10px}
+
+div.position {margin-left:7px; text-align:left}
+div.img {float:left; padding:0px 9px 0px 8px}
+div.img img {display: inline; border: 1px solid #000000}
+div.img a:hover img {border:1px solid #ffd381;}
+div.desc {text-align: center; color: #666666; font-size: 10px; line-height:20px; width:182px; margin-bottom:13px}
+div.pages {margin-left:216px; width:200px; font-weight:bold}
+
+.tabcontent {display:none}
+
+#bgbottom {background-image:url(/images/bg_bottom.gif); padding:0; width:780px; height:20px}
+#clearfooter {clear:both; overflow:hidden;}
+#footer {margin:0; padding:0; clear:both; text-align:center}
+.footer {margin-top:6px; clear:both; color: #666666; font-size: 8px}
+
+.nav {padding:3px 0px 5px 175px; color: #ffa81f; font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none; font-weight:bold}
+.left {padding:0px 15px 0px 10px; line-height:18px; color: #666666; font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none; font-weight:bold}
+.left3 {padding:8px 15px 0px 10px; line-height:14px; color: #000000; font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none}
+.pages {padding:14px 0px 0px 0px; color: #000000; font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none; font-weight:bold}
+.thumbnail {padding:9px 8px 8px 2px}
+
+.main {padding:0px 10px 10px 10px}
+.main03 {line-height:14px; color: #000000; font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none}
+.main04 {padding:0px 10px 0px 5px; line-height:16px; color: #000000; font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none}
+.main05 {line-height:16px; color: #000000; font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none}
+.main06 {color: #000000; font-size: 9px; font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none; font-weight:bold}
+.main07 {padding:0px 10px 0px 0px; line-height:16px; color: #000000; font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none}
+.main08 {color: #ff0000; font-size: 9px; font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none; font-weight:bold}
+
+.textbox {width:200px}
+.verify {width:75px}
+
+.resumeleft {padding:0px 15px 0px 10px; line-height:18px; color: #000000; font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none}
+.resume01 {padding:0px 0px 0px 15px; line-height:14px; color: #000000; font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none}
+.resume02 {padding:0px 10px 6px 5px; line-height:14px; color: #000000; font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none}
+.resume03 {color: #444444; font-weight:bold}
+.resume04 {padding:0px 0px 7px 0px; color: #444444; font-weight:bold}
+
+
+.temp {padding:0px 15px 0px 15px; line-height:36px; color: #000000; font-size: 18px; font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none; font-weight:bold}
+
+.globalnav_bottom {color: #ffffff; font-size: 11px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; font-weight:bold}
+.text2 {color: #ffffff; font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none}
+.text3 {color: #a0ceff; font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none; font-weight:bold}
+.text4 {color: #3d7aa7; font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none; font-weight:bold}
+.text5 {color: #656565; font-size: 11px; font-family: Arial, Helvetica, sans-serif; text-decoration: none}
+.text6 {color: #ffee77; font-size: 10px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; font-weight:bold}
+.line1 {line-height:16px; font-weight:bold}
+.line2 {line-height:16px}
+
+
+.title01 {padding:11px 15px 6px 15px; color: #ffffff; font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none; font-weight:bold}
+
+.right {padding:6px 0px 2px 15px}
+.rate01 {padding:2px 0px 2px 15px}
+.rate02 {padding:2px 15px 2px 0px}
+
+a:link, a:visited, a:active {color:#666666; text-decoration:none;}
+a:hover {color:#333333; text-decoration:none;}
+
+a.a1:link    {color:#ffffff; text-decoration:none}
+a.a1:visited {color:#ffffff; text-decoration:none}
+a.a1:active  {color:#ffffff; text-decoration:none}
+a.a1:hover   {color:#ffa81f; text-decoration:none}
+
+A.a2:link       {color:#aa8855; text-decoration:none; font-weight:bold}
+A.a2:visited    {color:#aa8855; text-decoration: none; font-weight:bold}
+A.a2.a1:active  {color:#aa8855; text-decoration: none; font-weight:bold}
+A.a2:hover      {color:#333333; text-decoration: none; font-weight:bold}
+
+A.a3:link       {color:#aa8855; text-decoration:none}
+A.a3:visited    {color:#aa8855; text-decoration: none}
+A.a3.a1:active  {color:#aa8855; text-decoration: none}
+A.a3:hover      {color:#333333; text-decoration: none}
